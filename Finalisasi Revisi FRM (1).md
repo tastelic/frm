@@ -2090,23 +2090,7 @@ untuk menginternalisasi nilai ke seluruh jajaran dan "mengedepankan budaya malu"
 instrumen aktif, bukan sekadar deklarasi. BPK dapat mengadopsi pendekatan serupa dengan
 konten yang lebih kontekstual berbasis keragaman budaya perwakilan, sehingga Pasal 5 ayat (1)
 huruf e bertransformasi dari kewajiban normatif menjadi program kerja yang terukur.
-Rekomendasi 2 — Perkuat: Integrasi Dimensi Sosial-Budaya dalam Penilaian Risiko
-## Integritas
-Komponen KKMI yang Relevan: Sub-Komponen Penilaian Risiko Pelanggaran Integritas dan
-Pemanfaatan Data Analytics (Bab 4 KKMI BPK)
-Penilaian risiko yang ada saat ini berfokus pada kerentanan struktural dan prosedural. Kajian ini
-menunjukkan bahwa risiko integritas yang paling persisten bersumber dari lapisan sosial-
-budaya yang belum masuk dalam cakupan penilaian risiko formal. Rekomendasi ini mendorong
-perluasan cakupan untuk mencakup tiga dimensi tambahan:
-Pertama, pemetaan jaringan sosial informal di lingkungan kerja yang berpotensi menciptakan
-network-based reciprocity negatif—identifikasi pola relasi personal yang berisiko mendistorsi
-penilaian profesional (ewuh pakewuh, loyalitas patron-klien). Kedua, identifikasi cultural
-looseness di tiap unit kerja, yaitu seberapa konsisten norma organisasi ditegakkan dan apakah
-terdapat penyimpangan yang dinormalisasi. Ketiga, asesmen moral identity pegawai sebagai
-indikator kerentanan terhadap rasionalisasi—pegawai dengan moral identity lemah lebih
-mudah merasionalisasi penyimpangan meskipun mengetahui aturan.
-
-Rekomendasi 3 — Perkuat: Desain WBS yang Sensitif Budaya
+Rekomendasi 2 — Perkuat: Desain WBS yang Sensitif Budaya
 Komponen KKMI yang Relevan: Sub-Komponen Pelaporan atas Pelanggaran Integritas dan
 Program Perlindungan Pelapor (Bab 5 KKMI BPK)
 Sub-komponen Pelaporan Pelanggaran dalam KKMI BPK mengatur WBS dan saluran
@@ -2115,20 +2099,23 @@ menunjukkan bahwa ketersediaan saluran formal tidak otomatis menghasilkan kebera
 melaporkan. Lingkungan pemeriksaan BPK—di mana tim bekerja dalam hierarki yang jelas dan
 relasi personal yang erat selama penugasan lapangan—sangat rentan terhadap hambatan ewuh
 pakewuh dan blind loyalty.
-WBS BPK perlu diperkuat melalui tiga langkah konkret. Pertama, di kantor perwakilan dengan
-budaya ewuh pakewuh atau kolektivisme tinggi, sediakan jalur pelaporan melalui trusted
-intermediary yang memiliki otoritas moral di luar struktur hierarki formal—tokoh senior
-terpercaya atau ombudsman internal yang terpisah dari rantai komando. Kedua, desain
-antarmuka WBS yang mengakomodasi pelaporan tidak langsung melalui pihak ketiga yang
-terpercaya, bukan hanya pelaporan individual anonim. Ketiga, sosialisasi WBS menggunakan
-narasi kultural lokal—membingkai pelaporan sebagai bentuk sipakainge' (saling
-mengingatkan dalam budaya Sulsel), kewajiban amanah terhadap organisasi, atau ekspresi nilai
-siri' profesional, sehingga pelaporan tidak dipersepsi sebagai pengkhianatan solidaritas tetapi
-sebagai pemenuhan kewajiban moral komunal.
+WBS BPK perlu diperkuat melalui dua langkah konkret. Pertama, di kantor perwakilan dengan
+budaya ewuh pakewuh atau kolektivisme tinggi, BPK perlu menyediakan saluran pelaporan
+yang dapat dimediasi oleh figur perantara tepercaya (trusted intermediary)—yakni tokoh
+senior yang memiliki otoritas moral di luar struktur hierarki formal atau ombudsman internal
+yang terpisah dari rantai komando—sehingga pelapor merasa aman menyampaikan dugaan
+pelanggaran tanpa harus berhadapan langsung dengan atasan atau rekan dalam relasi kerja
+yang erat. Kedua, implementasi nilai sosial budaya pada WBS dengan membingkai
+pelaporan sebagai bentuk sipakainge' (saling mengingatkan dalam budaya Sulsel)—yaitu
+ekspresi kewajiban moral untuk menjaga rekan dan organisasi dari penyimpangan, bukan
+tindakan yang bertentangan dengan solidaritas. Pembingkaian ini menempatkan tindakan
+melapor sebagai pemenuhan amanah komunal dan ekspresi nilai siri' profesional, sehingga
+mengubah persepsi dari "mengkhianati teman" menjadi "menyelamatkan teman dan
+institusi".
 KKMI Kemenkeu sudah mengatur perlindungan pelapor secara eksplisit; BPK dapat
 memperluas proteksi ini dengan menambahkan dimensi desain WBS yang sensitif budaya
 sebagai standar bagi seluruh kantor perwakilan.
-Rekomendasi 4 — Inovasi: Mekanisme Peer Integrity Review Berbasis Akuntabilitas Kolektif
+Rekomendasi 3 — Inovasi: Mekanisme Peer Integrity Review Berbasis Akuntabilitas Kolektif
 Komponen KKMI yang Relevan: Komplemen Komponen Pendeteksian dan Sub-Komponen
 Pembangunan Budaya Organisasi Berintegritas (Bab 4 dan 5 KKMI BPK)
 Inovasi ini terinspirasi dari mekanisme akuntabilitas komunal yang terbukti efektif dalam kajian
@@ -2149,30 +2136,37 @@ Referensi empiris yang relevan: Desa Pakatto berhasil mencapai zero-case korupsi
 melalui satu mekanisme, tetapi melalui kombinasi pengawasan formal dan informal yang saling
 melengkapi, termasuk musyawarah mingguan yang menciptakan forum akuntabilitas kolektif
 rutin.
-Rekomendasi 5 — Inovasi: Program Moral Socialization sebagai Lapis Tambahan Edukasi
-## Integritas
+Rekomendasi 4 — Inovasi: Sosialisasi dan Edukasi Integritas yang Diintegrasikan dengan
+Pemimpin Lokal
 Komponen KKMI yang Relevan: Sub-Komponen Edukasi atas Integritas (Bab 4 KKMI BPK)
 Sub-komponen Edukasi atas Integritas dalam KKMI BPK saat ini berfokus pada pemahaman
 regulasi, prosedur, dan sertifikasi integritas setiap satu tahun sekali—pendekatan compliance
 training yang menghasilkan pengetahuan aturan, bukan moral identity. Kajian menunjukkan
 bahwa internalisasi nilai yang sesungguhnya membutuhkan pendekatan yang secara
-fundamental berbeda.
-BPK perlu mengembangkan program pembinaan nilai yang bergeser dari orientasi know the
-rules ke orientasi be the person, melalui tiga langkah konkret. Pertama, gunakan narasi nilai
-berbasis kearifan lokal dalam orientasi pegawai baru—bukan hanya sosialisasi peraturan,
-tetapi penyampaian cerita dan nilai yang membangun koneksi antara identitas budaya individu
-dan identitas profesional pemeriksa. Kedua, integrasikan tokoh adat atau pemimpin moral
-lokal sebagai narasumber dalam diklat kepemimpinan di kantor perwakilan, mengikuti model
-yang sudah dipraktikkan Kota Denpasar (Sewaka Dharma) dan Desa Pakatto (Adat Ngaru).
-Ketiga, kembangkan story bank kasus integritas berbasis nilai budaya lokal yang dapat
-digunakan sebagai materi diskusi kelompok dalam program pembinaan reguler—meneruskan
-tradisi transmisi moral melalui narasi yang terbukti menghasilkan internalisasi lebih dalam
-daripada ceramah regulasi.
+fundamental berbeda, yaitu sosialisasi dan edukasi integritas yang melibatkan pemimpin
+lokal sebagai aktor utama dalam transmisi nilai.
+BPK perlu mengembangkan program sosialisasi dan edukasi integritas yang bergeser dari
+orientasi know the rules ke orientasi be the person dengan menempatkan pemimpin lokal—
+tokoh adat, pemimpin moral, dan figur publik berintegritas di wilayah perwakilan—sebagai
+mitra strategis dalam pembinaan nilai. Pertama, integrasikan tokoh adat dan pemimpin
+moral lokal sebagai narasumber tetap dalam diklat kepemimpinan dan orientasi pegawai
+baru di kantor perwakilan, mengikuti model yang sudah dipraktikkan Kota Denpasar (Sewaka
+Dharma) dan Desa Pakatto (Adat Ngaru). Kehadiran pemimpin lokal memberikan legitimasi
+moral komunal yang tidak dapat dihasilkan oleh ceramah regulasi semata. Kedua, libatkan
+pemimpin lokal dalam penyusunan materi sosialisasi berbasis kearifan lokal, sehingga
+narasi nilai yang disampaikan benar-benar mengakar pada konteks budaya pegawai—
+membangun koneksi antara identitas budaya individu dan identitas profesional pemeriksa.
+Ketiga, lembagakan forum dialog berkala antara pimpinan kantor perwakilan dengan
+pemimpin lokal sebagai bagian dari program pembinaan nilai berkelanjutan, sehingga
+sosialisasi integritas tidak menjadi acara seremonial tahunan, tetapi menjadi proses transmisi
+nilai yang terus berlangsung melalui figur yang dihormati komunitas.
 KKMI Kemenkeu sudah mengidentifikasi pentingnya "sumber daya manusia yang memiliki
 moral dan ketahanan yang baik"; BPK dapat lebih jauh mendefinisikan how moral tersebut
-dibangun secara kontekstual—bukan melalui sertifikasi, melainkan melalui sosialisasi moral
-berkelanjutan.
-Rekomendasi 6 — Inovasi: Integrasi Dual Legitimacy dalam Pemulihan Reputasi Organisasi
+dibangun secara kontekstual—bukan melalui sertifikasi semata, melainkan melalui sosialisasi
+dan edukasi integritas yang diintegrasikan dengan otoritas moral pemimpin lokal di setiap
+wilayah perwakilan.
+
+Rekomendasi 5 — Inovasi: Integrasi Dual Legitimacy dalam Pemulihan Reputasi Organisasi
 Komponen KKMI yang Relevan: Sub-Komponen Pemulihan Reputasi Organisasi dan Individu
 (Bab 6 KKMI BPK)
 
